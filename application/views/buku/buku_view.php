@@ -33,7 +33,7 @@
                                 <th>Title</th>
                                 <th>Penerbit</th>
                                 <th>Tahun Buku</th>
-                                <th>Stok Buku</th>
+                                <th>Jumlah Buku</th>
                                 <th>Dipinjam</th>
                                 <th>Tanggal Masuk</th>
                                 <th>Aksi</th>
